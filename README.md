@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm André
 
 I'm a data science enthusiast, developer and curious mind 🚀
