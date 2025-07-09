@@ -10,7 +10,9 @@ I'm a data science enthusiast, developer and curious mind 🚀
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/seuperfil)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= Andre-Luis-Lopes-da-Silva  &layout=compact)
+ ## 📊 GitHub Analytics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Luis-Lopes-da-Silva&layout=compact)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-Luis-Lopes-da-Silva&show_icons=true)
 
