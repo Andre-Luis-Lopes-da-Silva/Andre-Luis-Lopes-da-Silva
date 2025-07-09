@@ -8,7 +8,7 @@ I'm a data science enthusiast, developer and curious mind 🚀
 - Git & GitHub, Jupyter
 
 ## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-lopes-da-silva-00b95a28/)
 
  ## 📊 GitHub Analytics
 
