@@ -2,8 +2,8 @@
 I'm a data science enthusiast, developer and curious mind 🚀
 
 ## 🎓 Education
-🎓 Bachelor’s Degree in Computer Science (UNESA, expected 2025)
-🎓 Doctorate in Bioprocess Engineering & Biotechnology (UFPR, 2013)
+- 🎓 Bachelor’s Degree in Computer Science (UNESA, expected 2025)
+- 🎓 Doctorate in Bioprocess Engineering & Biotechnology (UFPR, 2013)
 
 ## 🚀 Skills
 - Python, SQL, R
