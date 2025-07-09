@@ -9,6 +9,7 @@ I'm a data science enthusiast, developer and curious mind 🚀
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-lopes-da-silva-00b95a28/)
+- ✉️ Open to remote & EU-based roles in Data Analytics / Data Science / AI / ML
 
  ## 📊 GitHub Analytics
 
